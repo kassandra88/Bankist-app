@@ -1,11 +1,5 @@
 'use strict';
 
-// BANKIST APP
-
-/////////////////////////////////////////////////
-// Data
-
-// DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
   owner: 'Jonas Schmedtmann',
